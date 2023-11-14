@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="margin:auto;background:#f1f2f3;z-index:1;position:relative" width="1920" height="1080" preserveAspectRatio="xMidYMid" display="block">
+    <linearGradient id="a" x1="0" y1="0" x2="0" y2="1">
+        <stop stop-color="#52616b" offset="0"/>
+        <stop stop-color="#c9d6df" offset="1"/>
+    </linearGradient>
+    <path fill="url(#a)" transform="translate(2.927)" d="M-56.471-1080h225.882v2160H-56.471z">
+        <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s" begin="-4s" keyTimes="0;0.5;1" values="-7.0588235294117645;7.0588235294117645;-7.0588235294117645" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" calcMode="spline"/>
+    </path>
+    <path fill="url(#a)" transform="translate(.094)" d="M56.471-1012.5h225.882v2160H56.471z">
+        <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s" begin="-3.75s" keyTimes="0;0.5;1" values="-7.0588235294117645;7.0588235294117645;-7.0588235294117645" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" calcMode="spline"/>
+    </path>
+    <path fill="url(#a)" transform="translate(-2.758)" d="M169.412-945h225.882v2160H169.412z">
+        <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s" begin="-3.5s" keyTimes="0;0.5;1" values="-7.0588235294117645;7.0588235294117645;-7.0588235294117645" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" calcMode="spline"/>
+    </path>
+    <path fill="url(#a)" transform="translate(-5.087)" d="M282.353-877.5h225.882v2160H282.353z">
+        <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s" begin="-3.25s" keyTimes="0;0.5;1" values="-7.0588235294117645;7.0588235294117645;-7.0588235294117645" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" calcMode="spline"/>
+    </path>
+    <path fill="url(#a)" transform="translate(-6.555)" d="M395.294-810h225.882v2160H395.294z">
+        <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s" begin="-3s" keyTimes="0;0.5;1" values="-7.0588235294117645;7.0588235294117645;-7.0588235294117645" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" calcMode="spline"/>
+    </path>
+    <path fill="url(#a)" transform="translate(-7.058)" d="M508.235-742.5h225.882v2160H508.235z">
+        <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s" begin="-2.75s" keyTimes="0;0.5;1" values="-7.0588235294117645;7.0588235294117645;-7.0588235294117645" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" calcMode="spline"/>
+    </path>
+    <path fill="url(#a)" transform="translate(-6.616)" d="M621.176-675h225.882v2160H621.176z">
+        <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s" begin="-2.5s" keyTimes="0;0.5;1" values="-7.0588235294117645;7.0588235294117645;-7.0588235294117645" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" calcMode="spline"/>
+    </path>
+    <path fill="url(#a)" transform="translate(-5.209)" d="M734.118-607.5H960v2160H734.118z">
+        <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s" begin="-2.25s" keyTimes="0;0.5;1" values="-7.0588235294117645;7.0588235294117645;-7.0588235294117645" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" calcMode="spline"/>
+    </path>
+    <path fill="url(#a)" transform="translate(-2.927)" d="M847.059-540h225.882v2160H847.059z">
+        <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s" begin="-2s" keyTimes="0;0.5;1" values="-7.0588235294117645;7.0588235294117645;-7.0588235294117645" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" calcMode="spline"/>
+    </path>
+    <path fill="url(#a)" transform="translate(-.094)" d="M960-472.5h225.882v2160H960z">
+        <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s" begin="-1.75s" keyTimes="0;0.5;1" values="-7.0588235294117645;7.0588235294117645;-7.0588235294117645" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" calcMode="spline"/>
+    </path>
+    <path fill="url(#a)" transform="translate(2.758)" d="M1072.941-405h225.882v2160h-225.882z">
+        <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s" begin="-1.5s" keyTimes="0;0.5;1" values="-7.0588235294117645;7.0588235294117645;-7.0588235294117645" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" calcMode="spline"/>
+    </path>
+    <path fill="url(#a)" transform="translate(5.087)" d="M1185.882-337.5h225.882v2160h-225.882z">
+        <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s" begin="-1.25s" keyTimes="0;0.5;1" values="-7.0588235294117645;7.0588235294117645;-7.0588235294117645" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" calcMode="spline"/>
+    </path>
+    <path fill="url(#a)" transform="translate(6.555)" d="M1298.824-270h225.882v2160h-225.882z">
+        <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s" begin="-1s" keyTimes="0;0.5;1" values="-7.0588235294117645;7.0588235294117645;-7.0588235294117645" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" calcMode="spline"/>
+    </path>
+    <path fill="url(#a)" transform="translate(7.058)" d="M1411.765-202.5h225.882v2160h-225.882z">
+        <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s" begin="-0.75s" keyTimes="0;0.5;1" values="-7.0588235294117645;7.0588235294117645;-7.0588235294117645" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" calcMode="spline"/>
+    </path>
+    <path fill="url(#a)" transform="translate(6.616)" d="M1524.706-135h225.882v2160h-225.882z">
+        <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s" begin="-0.5s" keyTimes="0;0.5;1" values="-7.0588235294117645;7.0588235294117645;-7.0588235294117645" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" calcMode="spline"/>
+    </path>
+    <path fill="url(#a)" transform="translate(5.209)" d="M1637.647-67.5h225.882v2160h-225.882z">
+        <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s" begin="-0.25s" keyTimes="0;0.5;1" values="-7.0588235294117645;7.0588235294117645;-7.0588235294117645" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" calcMode="spline"/>
+    </path>
+    <path fill="url(#a)" transform="translate(2.927)" d="M1750.588 0h225.882v2160h-225.882z">
+        <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" dur="4s" begin="0s" keyTimes="0;0.5;1" values="-7.0588235294117645;7.0588235294117645;-7.0588235294117645" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" calcMode="spline"/>
+    </path>
+</svg>

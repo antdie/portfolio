@@ -1,0 +1,4 @@
+https://adieudo.netlify.app/* https://www.adieudo.fr/:splat 301!
+http://adieudo.netlify.app/* https://www.adieudo.fr/:splat 301!
+http://www.adieudo.fr/* https://www.adieudo.fr/:splat 301!
+/* /index.html 200

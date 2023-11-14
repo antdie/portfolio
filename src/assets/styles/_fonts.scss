@@ -1,0 +1,48 @@
+/* montserrat-alternates-regular - latin-ext_latin */
+@font-face {
+  font-family: 'Montserrat Alternates';
+  font-display: fallback;
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local('Montserrat Alternates Regular'),
+    local('MontserratAlternates-Regular'),
+    url('@/assets/fonts/montserrat-alternates-v17-latin-regular.woff2') format('woff2'),
+    url('@/assets/fonts/montserrat-alternates-v17-latin-regular.woff') format('woff');
+}
+/* montserrat-alternates-500 - latin-ext_latin */
+@font-face {
+  font-family: 'Montserrat Alternates';
+  font-display: fallback;
+  font-style: normal;
+  font-weight: 500;
+  src:
+    local('Montserrat Alternates Medium'),
+    local('MontserratAlternates-Medium'),
+    url('@/assets/fonts/montserrat-alternates-v17-latin-500.woff2') format('woff2'),
+    url('@/assets/fonts/montserrat-alternates-v17-latin-500.woff') format('woff');
+}
+/* montserrat-alternates-600 - latin-ext_latin */
+@font-face {
+  font-family: 'Montserrat Alternates';
+  font-display: fallback;
+  font-style: normal;
+  font-weight: 600;
+  src:
+    local('Montserrat Alternates SemiBold'),
+    local('MontserratAlternates-SemiBold'),
+    url('@/assets/fonts/montserrat-alternates-v17-latin-600.woff2') format('woff2'),
+    url('@/assets/fonts/montserrat-alternates-v17-latin-600.woff') format('woff');
+}
+/* montserrat-alternates-700 - latin-ext_latin */
+@font-face {
+  font-family: 'Montserrat Alternates';
+  font-display: fallback;
+  font-style: normal;
+  font-weight: 700;
+  src:
+    local('Montserrat Alternates Bold'),
+    local('MontserratAlternates-Bold'),
+    url('@/assets/fonts/montserrat-alternates-v17-latin-700.woff2') format('woff2'),
+    url('@/assets/fonts/montserrat-alternates-v17-latin-700.woff') format('woff');
+}

@@ -1,0 +1,69 @@
+.rightToLeft-enter-active,
+.rightToLeft-leave-active {
+  transition: transform .5s;
+}
+.rightToLeft-enter-from,
+.rightToLeft-leave-to {
+  transform: translate3d(150%, 0, 0);
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity .2s;
+}
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+.fadeUp-enter-active {
+  animation: fadeUp .5s;
+}
+.fadeUp-leave-active {
+  animation: fadeUp .5s reverse;
+}
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translate3d(-50%, -100%, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+.fadeDown-enter-active {
+  animation: fadeDown .5s;
+}
+.fadeDown-leave-active {
+  animation: fadeDown .5s reverse;
+}
+@keyframes fadeDown {
+  from {
+    opacity: 0;
+    transform: translate3d(-50%, 100%, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes upDown {
+  from {
+    transform: translate3d(0, -4px, 0);
+  }
+  to {
+    transform: translate3d(0, 4px, 0);
+  }
+}

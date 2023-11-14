@@ -1,0 +1,2 @@
+TODO
+update .prettierrc.json file to fit my needs
